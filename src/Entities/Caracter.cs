@@ -17,16 +17,19 @@ namespace ProjectRPG.src.Entities
         public string skill = "Empurrão";
         public int level=1;
         public int hp=500;
+        public int bonus=0;
 
         public override string ToString(){
             return "Nome: " + this.name + " " + " | Elemento: " + " " + this.element + " | Habilidade: " + this.skill;
         }
 
-        public string Attack(){
-            return this.name +" deu um soco no oponente!";
+        public virtual string Attack(Caracter slime){
+            slime.hp -= 10; 
+            return this.name +" atacou!";
         }
 
-        public string Skill(){
+        public virtual string Skill(Caracter slime){
+            slime.hp -= 10; 
             return this.name + " usou: "+ this.skill + "!";
         }
 
