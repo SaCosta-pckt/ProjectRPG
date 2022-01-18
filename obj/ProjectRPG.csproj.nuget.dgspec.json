@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\workspace\\ProjectRPG\\ProjectRPG.csproj": {}
+    "C:\\workspace\\ProjectRPG\\ProjectRPG.csproj": {}
   },
   "projects": {
-    "c:\\workspace\\ProjectRPG\\ProjectRPG.csproj": {
+    "C:\\workspace\\ProjectRPG\\ProjectRPG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\workspace\\ProjectRPG\\ProjectRPG.csproj",
+        "projectUniqueName": "C:\\workspace\\ProjectRPG\\ProjectRPG.csproj",
         "projectName": "ProjectRPG",
-        "projectPath": "c:\\workspace\\ProjectRPG\\ProjectRPG.csproj",
+        "projectPath": "C:\\workspace\\ProjectRPG\\ProjectRPG.csproj",
         "packagesPath": "C:\\Users\\Sabrina\\.nuget\\packages\\",
-        "outputPath": "c:\\workspace\\ProjectRPG\\obj\\",
+        "outputPath": "C:\\workspace\\ProjectRPG\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sabrina\\AppData\\Roaming\\NuGet\\NuGet.Config"

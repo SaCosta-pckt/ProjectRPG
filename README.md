@@ -3,4 +3,4 @@
 - Usando .Net C#.
 
 ### Objetivo:
-- Criar um programa usando classes para criar alguns personagens de RPG com características diversas e habilidades.
+- Criar um jogo RPG usando classes para criar alguns personagens com características diversas e habilidades.
